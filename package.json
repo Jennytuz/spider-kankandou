@@ -1,0 +1,13 @@
+{
+  "name": "spider-kankandou",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "crawler": "^0.4.3",
+    "mongoose": "^4.5.7",
+    "mt-files-downloader": "^0.2.5"
+  }
+}
